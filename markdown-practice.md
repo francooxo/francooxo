@@ -18,9 +18,9 @@ My **goal** this semester is to build a *solid* foundation in the ~~fundamentals
   ---  
 | Tool    | Purpose   | Link     |
 |---------|-----------|----------|
-| VS Code   | To write, edit, debug, and manage code efficiently |  code.visualstudio.com  |
-|  Git    | To track changes in source code files  | git-scm.com   |
-|GitHub  | To host code repositories online, share projects, and collaborate seamlessly with other developers.    | github.com |
+| VS Code   | To write, edit, debug, and manage code efficiently |  https://code.visualstudio.com/  |
+|  Git    | To track changes in source code files  | https://git-scm.com/ |
+|GitHub  | To host code repositories online, share projects, and collaborate seamlessly with other developers.    | https://github.com/ |
 
 #### Task Lists
 - [x] Create a GitHub account
