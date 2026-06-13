@@ -38,11 +38,6 @@ def greet_developer(francooxo):
 ```
 > "The secret to getting ahead is getting started. And the secret to getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one." — Mark Twain
 ---
-## 🚀 About Me
-> "The best way to predict the future is to create it.
-
-
-I am an **ambitious student** passionate about diving deep into tech. I am currently focusing on *mastering* computer science ~~fundamentals~~ and building a strong `technical foundation` to kickstart my journey.
 
 ### My Learning Stack & Tools
     - Programming Concepts: Variables, functions, and logic control flow.
@@ -56,7 +51,11 @@ I am an **ambitious student** passionate about diving deep into tech. I am curre
 - [ ] Set up a local development environment
 - [ ] Build a personal portfolio project repository
 
+---
+## 🚀 About Me
+> "The best way to predict the future is to create it.
 
+I am an **ambitious student** passionate about diving deep into tech. I am currently focusing on *mastering* computer science ~~fundamentals~~ and building a strong `technical foundation` to kickstart my journey.
 
 
 
