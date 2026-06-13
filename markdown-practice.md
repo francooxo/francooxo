@@ -3,7 +3,7 @@
 My **goal** this semester is to build a *solid* foundation in the ~~fundamentals~~ of programming by writing my first lines of code and mastering `core` computer science concepts.
 
 ---
-[Link text](https://github.com/francooxo)
+My github profile [Link text](https://github.com/francooxo)
 ---
 ![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCz_hGCZCbGzqU_FArUuJmdScLMzwiJMOlBQ&s)
 ---
