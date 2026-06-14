@@ -1,4 +1,4 @@
-# Hi, I'm francoxo
+# Hi, I'm Francoxo
 ## About Me
 - I'm currently learning computer science at University of the People.
 - I'm interested in cybersecurity, networking, computer science, artificial intelligence and software development.
